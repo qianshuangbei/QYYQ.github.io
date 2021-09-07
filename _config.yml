@@ -1,10 +1,10 @@
 # Site
-name: "Raphael"
+name: "QYYQ"
 title: "Travel around World"
-description: "Camp Diem"
+description: "Share what we see, what we eat, what we feel"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /QYYQ
+baseurl: /QYYQ.github.io
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -14,14 +14,21 @@ email: qianshuangbei@tju.edu.cn
 
 # Authors
 authors:
-  sal:
-    name: Qian
-    display_name: Shuangbei Qian
+  qian:
+    name: Shuangbei
+    display_name: Raphael
     avatar: 'assets/images/avatar-sal.png'
     email: qianshuangbei@tju.edu.cn
-#    web: https://www.wowthemes.net/donate/
-#    twitter: https://twitter.com/wowthemesnet
+    #web: https://www.wowthemes.net/donate/
+    #twitter: https://twitter.com/wowthemesnet
     description: "A Coder and Photographer in China"
+
+  tong:
+    name: Tong
+    display_name: Aurora
+    avatar: 'assets/images/avatar.png'
+    # email: qianshuangbei@tju.edu.cn
+    description: "A HR and Japanese Teacher in China"
 
 # Plugins
 plugins:
